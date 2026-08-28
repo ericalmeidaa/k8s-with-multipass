@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Kubernetes
+*.kubeconfig
+
+# Secrets
+.env
+.env.*
+*.secret
+secrets/
+
+# SSH
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Multipass
+*.img
