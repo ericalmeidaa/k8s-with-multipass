@@ -1,4 +1,4 @@
-# 🚀 Kubernetes Local Production-Grade Lab
+# 🚀 Kubernetes Com Multipass Lab Para Estudos
 
 Este repositório documenta a criação de um cluster Kubernetes local do zero, simulando um ambiente real de produção. A arquitetura utiliza ferramentas modernas de mercado para provisionamento, redes (eBPF), roteamento (Gateway API) e balanceamento de carga.
 
