@@ -243,7 +243,7 @@ spec:
 EOF
 ```
 
-### Verificação
+### Validação
 
 Execute:
 
